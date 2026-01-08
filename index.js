@@ -10,7 +10,7 @@ app.use(express.json());
 // ===========================
 // CONFIG RAILWAY & BOT
 // ===========================
-const BOT_TOKEN = process.env.BOT_TOKEN || "7689769594:AAGAkbi4EC1YuOsAUe5QxolzCOv2JFCUY10";
+const BOT_TOKEN = process.env.BOT_TOKEN || "7689769594:AAHJ1342ZlDUneomKiSyOYUGoFZ4Vn13PjU";
 const VERCEL_TOKEN = process.env.VERCEL_TOKEN || "YPTMoA2jSbKQbb4s6YDGOk1s";
 const OWNER_ID = 6336062767;
 const CHANNEL_USERNAME = "@zamshtml";
